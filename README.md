@@ -13,6 +13,13 @@ I’m interested in **Web Development, Artificial Intelligence, Machine Learning
 - 😄 **Pronouns:** Yug
 - ⚡ **Fun fact:** I love turning ideas into projects and learning something new every day!
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuglakhani197) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuglakhani99@gmail.com) 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ### 🚀 Tech I'm Working With
 
 **Languages:**  
@@ -26,14 +33,6 @@ NumPy • Pandas • Scikit-learn • PyTorch • Deep Learning • CNN
 
 **Other:**  
 Git • GitHub • DBMS • Data Analysis 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuglakhani197) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuglakhani99@gmail.com) 
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Unusualyug&theme=radical&no-frame=false&no-bg=true&margin-w=4)
